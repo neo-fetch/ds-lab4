@@ -1,5 +1,5 @@
 
-# DS assignment 3
+# DS assignment 4
 
 Write a socket program to demonstrate Multicast communication, where a message from the sender is delivered to multiple recipients that belongs to a multicast group. 
   
